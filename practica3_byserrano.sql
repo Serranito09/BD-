@@ -64,9 +64,6 @@ order by 2 desc;
                                           
                                           
                                           
-select min (fechanacimiento)
-from votantes v
-group by fechanacimiento;
 
 
 
