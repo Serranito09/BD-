@@ -1,4 +1,4 @@
---EJERCICIO 1
+ --EJERCICIO 1
 select nombrecompleto 
 from votantes v
 where substr(dni,LENGTH(DNI),1)-1=localidad;
